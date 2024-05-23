@@ -1,0 +1,26 @@
+[33mcommit af5dc64103a69f7740d033d8d16361308290c8f1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6a031ae 2bed9bd
+Author: Oscar <161527819+Picho72@users.noreply.github.com>
+Date:   Wed Apr 24 17:08:12 2024 -0600
+
+    Merge pull request #1 from Picho72/archivos
+    
+    Agenda ahora manejando las operaciones por medio de archivos
+
+[33mcommit 2bed9bd6d7e7d1d5760aeff6f4a984a39b510993[m[33m ([m[1;31morigin/archivos[m[33m)[m
+Author: Oscar R <oscar.riv1590@gmail.com>
+Date:   Wed Apr 24 16:54:41 2024 -0600
+
+    Agenda ahora manejando las operaciones por medio de archivos
+
+[33mcommit 6a031ae0a16c71a48ac05e30e02c3c363fb4476e[m
+Author: Oscar R <oscar.riv1590@gmail.com>
+Date:   Wed Apr 24 15:27:27 2024 -0600
+
+    Primera version completa de agenda
+
+[33mcommit 3bb6d2f7c397240af73c8dc682c894d03164f0ca[m
+Author: Oscar R <oscar.riv1590@gmail.com>
+Date:   Wed Mar 20 18:41:30 2024 -0600
+
+    Initial commit
